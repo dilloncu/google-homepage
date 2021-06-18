@@ -1,1 +1,1 @@
-Clone of google.
+clone of google.
